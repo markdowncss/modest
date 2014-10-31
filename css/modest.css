@@ -171,6 +171,10 @@ textarea {
   max-width: 100%;
 }
 
+@import url(http://fonts.googleapis.com/css?family=Lora:400,400italic);
+
+@import url(http://fonts.googleapis.com/css?family=Arimo:700,700italic);
+
 html {
   font-size: 18px;
   max-width: 100%;
@@ -178,7 +182,18 @@ html {
 
 body {
   color: #444;
-  font-family: 'Merriweather', Georgia, serif;
-  margin: 0;
-  max-width: 100%;
+  font-family: Lora, Georgia, serif;
+  margin: 0 auto;
+  max-width: 48rem;
+  line-height: 1.45;
+  padding: .25rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Arimo, Helvetica, sans-serif;
 }
