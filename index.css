@@ -4,7 +4,7 @@
 @import "furtive-typescale";
 @import "furtive-responsive-utils";
 
-@import url(http://fonts.googleapis.com/css?family=Lora:400,400italic);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic,700);
 @import url(http://fonts.googleapis.com/css?family=Arimo:700,700italic);
 
 html {
@@ -14,7 +14,8 @@ html {
 
 body {
   color: #444;
-  font-family: Lora, Georgia, serif;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: 300;
   margin: 0 auto;
   max-width: 48rem;
   line-height: 1.45;
@@ -28,4 +29,23 @@ h4,
 h5,
 h6 {
   font-family: Arimo, Helvetica, sans-serif;
+}
+
+h1,
+h2,
+h3 {
+  border-bottom: 2px solid #fafafa;
+  margin-bottom: 1.15rem;
+  padding-bottom: .5rem;
+  text-align: center;
+}
+
+blockquote {
+  border-left: 8px solid #fafafa;
+  padding: 1rem;
+}
+
+pre,
+code {
+  background-color: #fafafa;
 }
