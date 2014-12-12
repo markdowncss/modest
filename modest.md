@@ -1,6 +1,6 @@
 # Modest
 
-[Modest](https://github.com/markdowncss/modest) is the second of many stylesheets to make HTML generated from
+[Modest](https://github.com/markdowncss/modest) is the fourth of many stylesheets to make HTML generated from
 markdown look beautiful. A list of all available stylesheets can be found [here](https://github.com/markdowncss).
 
 #### A markdown theme that is rather modest.
@@ -52,4 +52,4 @@ gulp.task('watch', function() {
   2. Feed the dog
   3. Dance
 
-Crafted with <3 by [John Otander](http://johnotander.com)([@4lpine](https://twitter.com/4lpine)).
+Crafted with <3 by [John Otander](http://johnotander.com) ([@4lpine](https://twitter.com/4lpine)).

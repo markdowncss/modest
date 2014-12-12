@@ -1,7 +1,7 @@
 {
   "name": "markdown-modest",
   "version": "0.0.1",
-  "description": "A markdown CSS theme.",
+  "description": "A modest markdown CSS theme.",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
