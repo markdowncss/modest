@@ -1,6 +1,6 @@
 # Modest
 
-A markdown theme that is rather modest.
+A [markdown theme](https://markdowncss.github.io) that is rather modest.
 
 ## Installation
 
